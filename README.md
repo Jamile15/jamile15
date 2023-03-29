@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3fd00&size=35&center=true&vCenter=true&width=1000&lines=Ola+tudo+bem?+meu+nome+é+Jamile+Vieira;mas+pode+me+chamar+de+Mile;eu+tenho+24+anos;moro+em+Brusque+SC;sou+uma+desenvolvedora+júnior;Bem+Vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3fd00&size=35&center=true&vCenter=true&width=1000&lines=Ola+tudo+bem?+meu+nome+é+Jamile+Vieira;mas+pode+me+chamar+de+Mile;tenho+24+anos;moro+em+Brusque+SC;sou+uma+desenvolvedora+júnior;Bem+Vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jamile15&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
