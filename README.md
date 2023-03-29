@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3fd00&size=35&center=true&vCenter=true&width=1000&lines=Ola+tudo+bem?+meu+nome+é+Jamile+Vieira;mas+pode+me+chamar+de+Mile;tenho+24+anos;moro+em+Brusque+SC;sou+uma+desenvolvedora+júnior;Bem+Vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=448b1f&size=35&center=true&vCenter=true&width=1000&lines=Ola+tudo+bem?+meu+nome+é+Jamile+Vieira;mas+pode+me+chamar+de+Mile;tenho+24+anos;moro+em+Brusque+SC;sou+uma+desenvolvedora+júnior;Bem+Vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jamile15&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -21,8 +21,7 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamile15&bg_color=373d3e&color=1ff454&line=bcc2bf&point=16d066&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jamile15&bg_color=0e2522&color=2bda4e&line=899089&point=0af531&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
