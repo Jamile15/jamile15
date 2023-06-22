@@ -30,7 +30,7 @@
  
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jamile15&bg_color=0e2522&color=2bda4e&line=899089&point=0af531&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://github.com/jamile15/jamile15/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
